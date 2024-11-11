@@ -25,3 +25,6 @@ TODO: Add links
   - the cyber mentor SOC101
   - myDFIR
   - [comparison of Blue team certificates](https://www.youtube.com/watch?v=lBFSWgs8Ytw)
+- Sysmon Configurations
+  - [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config)
+  - [sysmon-modular](https://github.com/olafhartong/sysmon-modular)
